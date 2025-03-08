@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amith-suresh/Leetcode/tree/master/0001-two-sum) |
+| [0782-jewels-and-stones](https://github.com/amith-suresh/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/amith-suresh/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amith-suresh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/amith-suresh/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/amith-suresh/Leetcode/tree/master/0067-add-binary) |
+| [0782-jewels-and-stones](https://github.com/amith-suresh/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Bit Manipulation
 |  |
 | ------- |
