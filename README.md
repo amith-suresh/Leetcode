@@ -9,17 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amith-suresh/Leetcode/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/amith-suresh/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/amith-suresh/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1635-number-of-good-pairs](https://github.com/amith-suresh/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amith-suresh/Leetcode/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/amith-suresh/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/amith-suresh/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1635-number-of-good-pairs](https://github.com/amith-suresh/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amith-suresh/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/amith-suresh/Leetcode/tree/master/0067-add-binary) |
+| [1635-number-of-good-pairs](https://github.com/amith-suresh/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -47,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/amith-suresh/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/amith-suresh/Leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
