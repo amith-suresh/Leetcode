@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/amith-suresh/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/amith-suresh/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/amith-suresh/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1899-count-items-matching-a-rule](https://github.com/amith-suresh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/amith-suresh/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/amith-suresh/Leetcode/tree/master/0067-add-binary) |
 | [0782-jewels-and-stones](https://github.com/amith-suresh/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1899-count-items-matching-a-rule](https://github.com/amith-suresh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2427-first-letter-to-appear-twice](https://github.com/amith-suresh/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
