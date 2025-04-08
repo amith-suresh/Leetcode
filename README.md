@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/amith-suresh/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1899-count-items-matching-a-rule](https://github.com/amith-suresh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/amith-suresh/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amith-suresh/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/amith-suresh/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/amith-suresh/Leetcode/tree/master/0067-add-binary) |
 | [1635-number-of-good-pairs](https://github.com/amith-suresh/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amith-suresh/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## String
 |  |
 | ------- |
