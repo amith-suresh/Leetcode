@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/amith-suresh/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amith-suresh/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3311-ant-on-the-boundary](https://github.com/amith-suresh/Leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3778-transform-array-by-parity](https://github.com/amith-suresh/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amith-suresh/Leetcode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/amith-suresh/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/amith-suresh/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3778-transform-array-by-parity](https://github.com/amith-suresh/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/amith-suresh/Leetcode/tree/master/0169-majority-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/amith-suresh/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3778-transform-array-by-parity](https://github.com/amith-suresh/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
