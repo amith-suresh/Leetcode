@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/amith-suresh/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/amith-suresh/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1899-count-items-matching-a-rule](https://github.com/amith-suresh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2048-build-array-from-permutation](https://github.com/amith-suresh/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/amith-suresh/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amith-suresh/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3311-ant-on-the-boundary](https://github.com/amith-suresh/Leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/amith-suresh/Leetcode/tree/master/0067-add-binary) |
+| [2048-build-array-from-permutation](https://github.com/amith-suresh/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [3311-ant-on-the-boundary](https://github.com/amith-suresh/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Two Pointers
 |  |
