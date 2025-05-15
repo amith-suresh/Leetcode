@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amith-suresh/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/amith-suresh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/amith-suresh/Leetcode/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/amith-suresh/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/amith-suresh/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amith-suresh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/amith-suresh/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amith-suresh/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amith-suresh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
