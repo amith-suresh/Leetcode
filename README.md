@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/amith-suresh/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/amith-suresh/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/amith-suresh/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3194-find-words-containing-character](https://github.com/amith-suresh/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3311-ant-on-the-boundary](https://github.com/amith-suresh/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3778-transform-array-by-parity](https://github.com/amith-suresh/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/amith-suresh/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1899-count-items-matching-a-rule](https://github.com/amith-suresh/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2427-first-letter-to-appear-twice](https://github.com/amith-suresh/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3194-find-words-containing-character](https://github.com/amith-suresh/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Bit Manipulation
 |  |
 | ------- |
