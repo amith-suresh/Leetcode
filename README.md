@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amith-suresh/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/amith-suresh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/amith-suresh/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/amith-suresh/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/amith-suresh/Leetcode/tree/master/0169-majority-element) |
 | [0643-maximum-average-subarray-i](https://github.com/amith-suresh/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/amith-suresh/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amith-suresh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/amith-suresh/Leetcode/tree/master/0075-sort-colors) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/amith-suresh/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## String Matching
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/amith-suresh/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/amith-suresh/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/amith-suresh/Leetcode/tree/master/0169-majority-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/amith-suresh/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3778-transform-array-by-parity](https://github.com/amith-suresh/Leetcode/tree/master/3778-transform-array-by-parity) |
